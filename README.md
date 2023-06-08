@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shouviksarkar2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eHTQtNXN9ESc74Gf6WRWiVlsR5C2flD7/view?usp=drive_link]([https://drive.google.com/file/d/1RihcnCM32mfsQaQ13K2Ma8DtWlzk7htA/view?usp=sharing](https://drive.google.com/file/d/1eHTQtNXN9ESc74Gf6WRWiVlsR5C2flD7/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eHTQtNXN9ESc74Gf6WRWiVlsR5C2flD7/view?usp=drive_link](https://drive.google.com/file/d/1RihcnCM32mfsQaQ13K2Ma8DtWlzk7htA/view?usp=sharing](https://drive.google.com/file/d/1eHTQtNXN9ESc74Gf6WRWiVlsR5C2flD7/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
