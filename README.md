@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Shouvik60712870" target="blank"><img src="https://img.shields.io/twitter/follow/Shouvik60712870?logo=twitter&style=for-the-badge" alt="shouvik-sarkar" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, React**
 
