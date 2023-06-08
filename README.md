@@ -23,7 +23,7 @@
 <a href="https://leetcode.com/shouviksarkar12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shouvik-sarkar" height="30" width="40" /></a>
 </p>
 
-#### ⚡ Technologies
+### ⚡ Technologies
 
 #### Front-end 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
